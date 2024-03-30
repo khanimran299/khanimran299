@@ -15,3 +15,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->😛 must be🔋 attack 
 --☺️  you are a hero
+              - name: Setup .NET Core SDK
+                uses: actions/setup-dotnet@v4.0.0
+            
